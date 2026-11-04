@@ -1,0 +1,5 @@
+* text=auto
+*.cjs text eol=lf
+*.mjs text eol=lf
+*.jsx text eol=lf
+*.yml text eol=lf
